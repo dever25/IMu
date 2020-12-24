@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         view.backgroundColor = .white
     }
 
+    override class func willChangeValue(forKey key: String) {
+        print(0)
+    }
 
 }
 
