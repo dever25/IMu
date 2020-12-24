@@ -1,2 +1,2 @@
-# IMusic
-Music player
+# IMu
+Test app
